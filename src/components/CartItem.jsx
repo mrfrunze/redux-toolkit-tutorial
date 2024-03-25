@@ -4,10 +4,9 @@ import { removeItem, increase, decrease } from '../features/cart/cartSlice';
 import { useDispatch } from 'react-redux';
 
 const CartItem = ({ id, img, title, price, amount }) => {
-  const url = "https://github.com/mrfrunze/redux-toolkit-tutorial/blob/main/data/react-useReducer-cart-project.json";
   const despatch = useDispatch()
   // console.log(title, price, img, amount);
-  console.log(url);
+  
   return (
     <article className='cart-item'>
       <img src={img} alt={title} />

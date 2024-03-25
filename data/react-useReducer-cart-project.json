@@ -3,7 +3,7 @@
         "id":"rec1JZlfCIBOPdcT2",
         "title":"Samsung Galaxy S8",
         "price":"399.99",
-        "img":"https://github.com/mrfrunze/redux-toolkit-tutorial/blob/main/src/assets/phone-1.png",
+        "img":"https://raw.githubusercontent.com/mrfrunze/redux-toolkit-tutorial/main/src/assets/phone-1.png",
         "amount":1
     },
     {
