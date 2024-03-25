@@ -10,7 +10,7 @@
         "id":"recB6qcHPxb62YJ75",
         "title":"google pixel",
         "price":"499.99",
-        "img":"https://github.com/mrfrunze/redux-toolkit-tutorial/blob/main/src/assets/phone-2.png",
+        "img":"https://raw.githubusercontent.com/mrfrunze/redux-toolkit-tutorial/main/src/assets/phone-2.png",
         "amount":1
     },
     {
