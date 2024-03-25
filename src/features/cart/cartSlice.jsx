@@ -6,7 +6,7 @@ import cartItems from "../../cartItems"
 const url = "https://raw.githubusercontent.com/mrfrunze/redux-toolkit-tutorial/main/data/react-useReducer-cart-project.json";
 
 const initialState = {
-    cartItems: cartItems,
+    cartItems: [],
     amount: 0,
     total: 0,
     isLoading: true,
